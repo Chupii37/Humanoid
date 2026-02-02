@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Logs
+crash_log.txt
+
+# Config files
+config.json
+
+# Proxy list
+proxy.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
