@@ -65,6 +65,7 @@ Create the following files in the root directory before running the bot:
     ```
     
 2. **Proxy Configuration (proxy.txt)**
+   
    **Add HTTP/HTTPS proxies, one per line:**
     ```bash
     nano proxy.txt
